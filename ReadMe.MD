@@ -1,0 +1,1 @@
+##This script generates an alpha-numeric-series like 'XXX-000'
